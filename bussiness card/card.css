@@ -1,0 +1,20 @@
+.card {
+    margin: 20px;
+    display: flex;
+    background: #ddebf8;
+    width: 500px;
+    padding: 20px;
+    justify-content: space-around;
+    border-bottom: 10px solid #d8cefe;
+    border-right: 10px solid #e9e5fc;
+    margin: 250px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    width: 35%;
+}
+.contents {
+    font-size: large;
+    padding-top: 20px;
+    text-align: center;
+}
